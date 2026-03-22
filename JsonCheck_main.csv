@@ -1,0 +1,2 @@
+id,profile.username,profile.email,profile.age,profile.preferences.theme,profile.preferences.notifications.email,profile.preferences.notifications.sms,profile.preferences.notifications.push,profile.preferences.languages,activity.lastLogin
+u1001,neo_alpha,neo@example.com,17,dark,True,False,True,"en,he,es",2026-03-20T18:22:10Z

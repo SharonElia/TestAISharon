@@ -1,0 +1,3 @@
+id,action.type,action.orderId,productId,name,qty
+u1001,purchase,ord789,p101,Wireless Mouse,1
+u1001,purchase,ord789,p205,Keyboard,1

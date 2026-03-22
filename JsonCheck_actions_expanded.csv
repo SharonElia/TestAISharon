@@ -1,0 +1,3 @@
+id,action.type,action.ip,action.device.type,action.device.os,action.device.version,action.orderId,action.amount,action.currency,item1.productId,item1.name,item1.qty,item2.productId,item2.name,item2.qty
+u1001,login,192.168.1.10,mobile,Android,14,,,,,,,,,
+u1001,purchase,,,,,ord789,149.99,USD,p101,Wireless Mouse,1.0,p205,Keyboard,1.0

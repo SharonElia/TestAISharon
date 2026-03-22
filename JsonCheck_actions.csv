@@ -1,0 +1,3 @@
+id,action.type,action.ip,action.device.type,action.device.os,action.device.version,action.orderId,action.amount,action.currency,action.items
+u1001,login,192.168.1.10,mobile,Android,14,,,,[]
+u1001,purchase,,,,,ord789,149.99,USD,"[{""productId"": ""p101"", ""name"": ""Wireless Mouse"", ""qty"": 1}, {""productId"": ""p205"", ""name"": ""Keyboard"", ""qty"": 1}]"

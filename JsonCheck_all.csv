@@ -1,0 +1,4 @@
+id,profile.username,profile.email,profile.age,profile.preferences.theme,profile.preferences.notifications.email,profile.preferences.notifications.sms,profile.preferences.notifications.push,profile.preferences.languages,activity.lastLogin,action.type,action.ip,action.device.type,action.device.os,action.device.version,action.orderId,action.amount,action.currency,item.productId,item.name,item.qty
+u1001,neo_alpha,neo@example.com,17,dark,True,False,True,"en,he,es",2026-03-20T18:22:10Z,login,192.168.1.10,mobile,Android,14,,,,,,
+u1001,neo_alpha,neo@example.com,17,dark,True,False,True,"en,he,es",2026-03-20T18:22:10Z,purchase,,,,,ord789,149.99,USD,p101,Wireless Mouse,1.0
+u1001,neo_alpha,neo@example.com,17,dark,True,False,True,"en,he,es",2026-03-20T18:22:10Z,purchase,,,,,ord789,149.99,USD,p205,Keyboard,1.0
